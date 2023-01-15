@@ -170,3 +170,5 @@ NB: Dans ce cas, **destinataire** ne peut être que *nomGrp* ou *toall*
 
 ## Informations
 Ce projet est un projet académique pour le cours de "Programmation Réseau" durant notre 4ème année d'école d'ingénieur à l'INSA LYON.
+
+YAYA Imadath - EL KOURI Malak
